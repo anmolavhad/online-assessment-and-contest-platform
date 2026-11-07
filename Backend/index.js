@@ -19,6 +19,11 @@ const app = express();
 connectDB();
 app.use(express.json());
 app.use(cors());
+
+app.get("/", (req, res) => {
+  res.status(200).json({ status: "ok", message: "Online Assessment Platform API is running" });
+});
+
 app.use("/api/auth", authRoutes);
 app.use("/api/questions", questionRoutes);
 app.use("/api/test-attempts", testAttemptRoutes);
