@@ -4,6 +4,14 @@ A comprehensive, full-stack MERN web application built for conducting timed onli
 
 ---
 
+## 🌐 Live Deployments
+
+- 🖥️ **Live Web Application (Frontend)**: [https://online-assessment-and-contest-platf.vercel.app](https://online-assessment-and-contest-platf.vercel.app)
+- ⚙️ **API Service (Backend)**: [https://online-assessment-and-contest-platform.onrender.com](https://online-assessment-and-contest-platform.onrender.com)
+- 🩺 **API Health Check**: [https://online-assessment-and-contest-platform.onrender.com/](https://online-assessment-and-contest-platform.onrender.com/)
+
+---
+
 ## 🌟 Key Features
 
 ### 🎯 Online Contests & Assessments
